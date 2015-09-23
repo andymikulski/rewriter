@@ -1,2 +1,4 @@
-# rewriter
-JS-Based Inline Content Editor
+# Rewriter
+## JS-Based Inline Content Editor
+
+Readme coming soon
